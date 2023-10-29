@@ -1,1 +1,1 @@
-# pokemon-getto-daze
+# Pokemon Getto Daze!
